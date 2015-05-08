@@ -1,0 +1,27 @@
+{
+  "name": "gulp-utility",
+  "version": "1.0.0",
+  "description": "Non-project related gulpfile for running against non-gulp projects.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.9.2",
+    "gulp-less": "^3.0.1",
+    "gulp-livereload": "^3.8.0",
+    "gulp-load-plugins": "^0.8.1",
+    "gulp-watch": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhubenthal/gulp-utility"
+  },
+  "author": "Max Hubenthal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhubenthal/gulp-utility/issues"
+  },
+  "homepage": "https://github.com/mhubenthal/gulp-utility"
+}
